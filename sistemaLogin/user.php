@@ -2,13 +2,11 @@
     require_once 'conectar.php';
     global $pdo, $res;
 
-
 if (isset($_POST['acao'])) {
     $nome = $_POST['nome'];
     $telefone = $_POST['telefone'];
     $email = $_POST['email'];
     $senha = $_POST['senha'];
-
 
         $res = $pdo->prepare("INSERT INTO usuarios (nome, telefone,email, senha) VALUES (:n, :t, :e, :s)");
         $res->bindValue(':n', $nome);
@@ -34,10 +32,6 @@ if (isset($_POST['acao'])) {
 <?php
 
 }
-
-
-
-
 ?>
 <!doctype html>
 <html lang="en">

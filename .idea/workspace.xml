@@ -2,9 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="078ad277-e664-414f-af03-f96a2bc362bc" name="Default Changelist" comment="classe conectar">
-      <change afterPath="$PROJECT_DIR$/display.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conectar.php" beforeDir="false" afterPath="$PROJECT_DIR$/conectar.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conexao.php" beforeDir="false" afterPath="$PROJECT_DIR$/conexao.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/PDO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api_cep/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api_futebol/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facuPhp/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facuPhp/.idea/facuPhp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facuPhp/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facuPhp/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facuPhp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facuPhp/Cliente.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facuPhp/inndex.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facuPhp/validadores.text" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sistemaGerenciamentoDividas/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sistemaGerenciamentoDividas/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sistemaGerenciamentoDividas/Classes/Dividas.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sistemaGerenciamentoDividas/adicionar_divida.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sistemaGerenciamentoDividas/adicionar_entrada.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sistemaGerenciamentoDividas/xml.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sistemaGerenciamentoDividas" beforeDir="false" afterPath="$PROJECT_DIR$/sistemaGerenciamentoDividas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sistemaGerenciamentoDividas/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/sistemaGerenciamentoDividas/home.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sistemaGerenciamentoDividas/xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sistemaLogin/display.php" beforeDir="false" afterPath="$PROJECT_DIR$/sistemaLogin/display.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sistemaLogin/user.php" beforeDir="false" afterPath="$PROJECT_DIR$/sistemaLogin/user.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +41,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 8.0" />
   <component name="ProjectId" id="1zVMOXFJLwvML43q2ox0WflNUzR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -27,7 +50,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../projetosMVC/sitema_login_senha" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/docker-compose-lamp-master" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -44,6 +67,7 @@
       <workItem from="1634229693708" duration="3585000" />
       <workItem from="1634562120619" duration="1952000" />
       <workItem from="1634650674119" duration="11927000" />
+      <workItem from="1635163705610" duration="6714000" />
     </task>
     <task id="LOCAL-00001" summary="classe conectar">
       <created>1634743154637</created>

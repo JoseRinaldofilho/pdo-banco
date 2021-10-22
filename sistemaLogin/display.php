@@ -92,7 +92,7 @@ global $pdo;
 <div class="container">
     <div class="row">
         <h2 class="text-center">Consulta Lista de Cliente</h2>
-        <button type="submit" class="btn-primary">Adicionar novo clinete</button>
+        <button type="submit" class="btn-primary">Adicionar novo cliente</button>
     </div>
 
     <div class="row">
@@ -109,8 +109,8 @@ global $pdo;
                     <th>Age</th>
                     <th>Start date</th>
                     <th>Salary</th>
-                    <th>Edit</th>
-                    <th>Delete</th>
+                    <th>Edita</th>
+                    <th>Deleta</th>
                 </tr>
                 </thead>
 
@@ -122,8 +122,8 @@ global $pdo;
                     <th>Age</th>
                     <th>Start date</th>
                     <th>Salary</th>
-                    <th>Edit</th>
-                    <th>Delete</th>
+                    <th>Edita</th>
+                    <th>Deleta</th>
                 </tr>
                 </tfoot>
 
