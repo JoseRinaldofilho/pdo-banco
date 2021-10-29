@@ -2,22 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="078ad277-e664-414f-af03-f96a2bc362bc" name="Default Changelist" comment="classe conectar">
-      <change afterPath="$PROJECT_DIR$/Poo_Digital_Innovation/Banco_dados_PDO/conexao.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Poo_Digital_Innovation/Banco_dados_PDO/deletar.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Poo_Digital_Innovation/Banco_dados_PDO/inserir.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Poo_Digital_Innovation/Banco_dados_PDO/lista.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Poo_Digital_Innovation/appbanco/ContaBancaria.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Poo_Digital_Innovation/appbanco/date.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Poo_Digital_Innovation/appbanco/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Poo_Digital_Innovation/exercicio/Venda.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Poo_Digital_Innovation/exercicio/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Poo_Digital_Innovation/exercoes/inde.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Poo_Digital_Innovation/exercoes/tryCatch.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crudPdoUdemy10_21/conexao1.php" beforeDir="false" afterPath="$PROJECT_DIR$/crudPdoUdemy10_21/conexao1.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sistemaGerenciamentoDividas" beforeDir="false" afterPath="$PROJECT_DIR$/sistemaGerenciamentoDividas" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sistemaGerenciamentoDividas/Classes/Dividas.php" beforeDir="false" afterPath="$PROJECT_DIR$/sistemaGerenciamentoDividas/Classes/Dividas.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sistemaLogin/conexao.php" beforeDir="false" afterPath="$PROJECT_DIR$/sistemaLogin/conexao.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poo_Digital_Innovation/Banco_dados_PDO/conexao.php" beforeDir="false" afterPath="$PROJECT_DIR$/Poo_Digital_Innovation/Banco_dados_PDO/conexao.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sistemaLogin/conectar.php" beforeDir="false" afterPath="$PROJECT_DIR$/sistemaLogin/conectar.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +52,7 @@
       <workItem from="1634562120619" duration="1952000" />
       <workItem from="1634650674119" duration="11927000" />
       <workItem from="1635163705610" duration="6714000" />
-      <workItem from="1635471842895" duration="17251000" />
+      <workItem from="1635471842895" duration="18441000" />
     </task>
     <task id="LOCAL-00001" summary="classe conectar">
       <created>1634743154637</created>
@@ -81,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635472113841</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="classe conectar">
+      <created>1635528787979</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1635528787979</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,9 +94,9 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="classe conectar" />
     <MESSAGE value="poo digital innovation" />
-    <option name="LAST_COMMIT_MESSAGE" value="poo digital innovation" />
+    <MESSAGE value="classe conectar" />
+    <option name="LAST_COMMIT_MESSAGE" value="classe conectar" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
