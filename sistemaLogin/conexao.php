@@ -47,7 +47,7 @@ $cmd->execute();*/
 $cmd = $pdo->prepare("SELECT * FROM pessoa WHERE id = :id");
 $cmd->bindValue(":id",1);
 $cmd->execute();
-/** pega ess informçao doi banco e tranforma no array */
+/** pega ess informçao doi appbanco e tranforma no array */
 $res = $cmd->fetch(PDO::FETCH_ASSOC);//busca por 1 id fetchall busca todos los usa PDO:
 
 foreach ($res as $index => $re) {

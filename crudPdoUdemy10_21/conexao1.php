@@ -1,5 +1,5 @@
 <?php 
-// faz a conexao com banco
+// faz a conexao com appbanco
 try {
 
     $conectar = new PDO("mysql:host=localhost;bdname=crud_pdo;","root","");

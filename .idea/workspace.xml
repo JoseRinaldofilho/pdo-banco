@@ -2,31 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="078ad277-e664-414f-af03-f96a2bc362bc" name="Default Changelist" comment="classe conectar">
-      <change afterPath="$PROJECT_DIR$/.idea/PDO.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api_cep/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api_futebol/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/facuPhp/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/facuPhp/.idea/facuPhp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/facuPhp/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/facuPhp/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/facuPhp/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/facuPhp/Cliente.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/facuPhp/inndex.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/facuPhp/validadores.text" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sistemaGerenciamentoDividas/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sistemaGerenciamentoDividas/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sistemaGerenciamentoDividas/Classes/Dividas.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sistemaGerenciamentoDividas/adicionar_divida.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sistemaGerenciamentoDividas/adicionar_entrada.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sistemaGerenciamentoDividas/xml.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Poo_Digital_Innovation/Banco_dados_PDO/conexao.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Poo_Digital_Innovation/Banco_dados_PDO/deletar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Poo_Digital_Innovation/Banco_dados_PDO/inserir.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Poo_Digital_Innovation/Banco_dados_PDO/lista.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Poo_Digital_Innovation/appbanco/ContaBancaria.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Poo_Digital_Innovation/appbanco/date.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Poo_Digital_Innovation/appbanco/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Poo_Digital_Innovation/exercicio/Venda.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Poo_Digital_Innovation/exercicio/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Poo_Digital_Innovation/exercoes/inde.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Poo_Digital_Innovation/exercoes/tryCatch.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crudPdoUdemy10_21/conexao1.php" beforeDir="false" afterPath="$PROJECT_DIR$/crudPdoUdemy10_21/conexao1.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sistemaGerenciamentoDividas" beforeDir="false" afterPath="$PROJECT_DIR$/sistemaGerenciamentoDividas" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sistemaGerenciamentoDividas/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/sistemaGerenciamentoDividas/home.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sistemaGerenciamentoDividas/xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sistemaLogin/display.php" beforeDir="false" afterPath="$PROJECT_DIR$/sistemaLogin/display.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sistemaLogin/user.php" beforeDir="false" afterPath="$PROJECT_DIR$/sistemaLogin/user.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sistemaGerenciamentoDividas/Classes/Dividas.php" beforeDir="false" afterPath="$PROJECT_DIR$/sistemaGerenciamentoDividas/Classes/Dividas.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sistemaLogin/conexao.php" beforeDir="false" afterPath="$PROJECT_DIR$/sistemaLogin/conexao.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,12 +38,18 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$/Documents/docker-compose-lamp-master" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\PDO\Poo_Digital_Innovation\banco" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -68,6 +65,7 @@
       <workItem from="1634562120619" duration="1952000" />
       <workItem from="1634650674119" duration="11927000" />
       <workItem from="1635163705610" duration="6714000" />
+      <workItem from="1635471842895" duration="17251000" />
     </task>
     <task id="LOCAL-00001" summary="classe conectar">
       <created>1634743154637</created>
@@ -76,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634743154637</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="poo digital innovation">
+      <created>1635472113841</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1635472113841</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,7 +101,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="classe conectar" />
-    <option name="LAST_COMMIT_MESSAGE" value="classe conectar" />
+    <MESSAGE value="poo digital innovation" />
+    <option name="LAST_COMMIT_MESSAGE" value="poo digital innovation" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
