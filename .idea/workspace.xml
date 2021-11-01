@@ -2,19 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="078ad277-e664-414f-af03-f96a2bc362bc" name="Default Changelist" comment="conexao.php feita">
-      <change afterPath="$PROJECT_DIR$/WDEV_MVC/mvc/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudonalta_php_mysql/css/stilo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudonalta_php_mysql/includes/banco.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudonalta_php_mysql/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudonalta_php_mysql/modelo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudonalta_php_mysql/query.text" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b68a3ddd-c66b-4cab-b183-df9bebff6551.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/b68a3ddd-c66b-4cab-b183-df9bebff6551.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WDEV_MVC/mvc/app/Utils/View.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WDEV_MVC/mvc/resources/views/pages/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PDO.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PDO.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Poo_Digital_Innovation/Banco_dados_PDO/conexao.php" beforeDir="false" afterPath="$PROJECT_DIR$/Poo_Digital_Innovation/Banco_dados_PDO/conexao.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Poo_Digital_Innovation/Banco_dados_PDO/inserir.php" beforeDir="false" afterPath="$PROJECT_DIR$/Poo_Digital_Innovation/Banco_dados_PDO/inserir.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Poo_Digital_Innovation/Banco_dados_PDO/lista.php" beforeDir="false" afterPath="$PROJECT_DIR$/Poo_Digital_Innovation/Banco_dados_PDO/lista.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sistemaGerenciamentoDividas" beforeDir="false" afterPath="$PROJECT_DIR$/sistemaGerenciamentoDividas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WDEV_MVC/mvc/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/WDEV_MVC/mvc/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +23,7 @@
       <list>
         <option value="CSS File" />
         <option value="composer.json" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -44,7 +38,11 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 8.0" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 8.0">
+    <include_path>
+      <path value="$PROJECT_DIR$/WDEV_MVC/mvc/vendor/composer" />
+    </include_path>
+  </component>
   <component name="ProjectId" id="1zVMOXFJLwvML43q2ox0WflNUzR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -53,10 +51,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Documents/docker-compose-lamp-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../crud" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -89,7 +88,7 @@
       <workItem from="1634650674119" duration="11927000" />
       <workItem from="1635163705610" duration="6714000" />
       <workItem from="1635471842895" duration="21188000" />
-      <workItem from="1635564829269" duration="33573000" />
+      <workItem from="1635564829269" duration="37068000" />
     </task>
     <task id="LOCAL-00001" summary="classe conectar">
       <created>1634743154637</created>
@@ -119,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635529800055</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="criando mvc wdev treinamento">
+      <created>1635773372706</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1635773372706</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,7 +147,8 @@
     <MESSAGE value="poo digital innovation" />
     <MESSAGE value="classe conectar" />
     <MESSAGE value="conexao.php feita" />
-    <option name="LAST_COMMIT_MESSAGE" value="conexao.php feita" />
+    <MESSAGE value="criando mvc wdev treinamento" />
+    <option name="LAST_COMMIT_MESSAGE" value="criando mvc wdev treinamento" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

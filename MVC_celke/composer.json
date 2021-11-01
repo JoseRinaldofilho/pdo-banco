@@ -1,0 +1,17 @@
+{
+    "description": "",
+    "authors": [
+        {
+            "name": "Jose rinaldo",
+            "email": "jose.rinaldodev@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app"
+        }
+    },
+    "require": {
+
+    }
+}
