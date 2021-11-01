@@ -1,0 +1,19 @@
+{
+  "name": "rinaldo_dev/mvc",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Basis Tecnologia",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+  }
+}

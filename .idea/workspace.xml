@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="078ad277-e664-414f-af03-f96a2bc362bc" name="Default Changelist" comment="classe conectar">
+    <list default="true" id="078ad277-e664-414f-af03-f96a2bc362bc" name="Default Changelist" comment="conexao.php feita">
+      <change afterPath="$PROJECT_DIR$/WDEV_MVC/mvc/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estudonalta_php_mysql/css/stilo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estudonalta_php_mysql/includes/banco.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estudonalta_php_mysql/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estudonalta_php_mysql/modelo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estudonalta_php_mysql/query.text" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b68a3ddd-c66b-4cab-b183-df9bebff6551.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/b68a3ddd-c66b-4cab-b183-df9bebff6551.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Poo_Digital_Innovation/Banco_dados_PDO/conexao.php" beforeDir="false" afterPath="$PROJECT_DIR$/Poo_Digital_Innovation/Banco_dados_PDO/conexao.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sistemaLogin/conectar.php" beforeDir="false" afterPath="$PROJECT_DIR$/sistemaLogin/conectar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poo_Digital_Innovation/Banco_dados_PDO/inserir.php" beforeDir="false" afterPath="$PROJECT_DIR$/Poo_Digital_Innovation/Banco_dados_PDO/inserir.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poo_Digital_Innovation/Banco_dados_PDO/lista.php" beforeDir="false" afterPath="$PROJECT_DIR$/Poo_Digital_Innovation/Banco_dados_PDO/lista.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sistemaGerenciamentoDividas" beforeDir="false" afterPath="$PROJECT_DIR$/sistemaGerenciamentoDividas" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,10 +22,27 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings">
+    <pharConfigPath>$PROJECT_DIR$/WDEV_MVC/mvc/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="composer.json" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 8.0" />
   <component name="ProjectId" id="1zVMOXFJLwvML43q2ox0WflNUzR" />
@@ -30,13 +57,22 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$/Documents/docker-compose-lamp-master" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\PDO\estudonalta_php_mysql\css" />
       <recent name="C:\xampp\htdocs\PDO\Poo_Digital_Innovation\banco" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ComposerRunConfigurationType" factoryName="Composer Script">
+      <option name="pathToComposerJson" value="$PROJECT_DIR$/WDEV_MVC/mvc/composer.json" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -52,7 +88,8 @@
       <workItem from="1634562120619" duration="1952000" />
       <workItem from="1634650674119" duration="11927000" />
       <workItem from="1635163705610" duration="6714000" />
-      <workItem from="1635471842895" duration="18441000" />
+      <workItem from="1635471842895" duration="21188000" />
+      <workItem from="1635564829269" duration="33573000" />
     </task>
     <task id="LOCAL-00001" summary="classe conectar">
       <created>1634743154637</created>
@@ -75,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635528787979</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="conexao.php feita">
+      <created>1635529800055</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1635529800055</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,7 +140,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="poo digital innovation" />
     <MESSAGE value="classe conectar" />
-    <option name="LAST_COMMIT_MESSAGE" value="classe conectar" />
+    <MESSAGE value="conexao.php feita" />
+    <option name="LAST_COMMIT_MESSAGE" value="conexao.php feita" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

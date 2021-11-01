@@ -1,0 +1,4 @@
+select j.cod, j.nome, g.genero, p.produtora, j.nota, j.capa from jogos j
+join genero g on j.genero = g.cod join produtoras p on p.cod = j.produtora;
+
+--
